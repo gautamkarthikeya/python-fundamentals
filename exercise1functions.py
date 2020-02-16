@@ -1,6 +1,6 @@
 
 
-def say_hello(name,lastname='Palakollu'):
+def say_hello(name,lastname='palak'):
     print('Hi {}!'.format(name))
 
 def square_numbers(number):
@@ -9,7 +9,7 @@ def square_numbers(number):
 
 
 name = input('Whats your name:')
-say_hello(name,'Karthikeya')
+say_hello(name,'karthik')
 squared_number = square_numbers(7)
 print('Square number for 7 is {}'.format(squared_number))
 

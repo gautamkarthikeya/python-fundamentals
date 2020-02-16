@@ -7,7 +7,7 @@ def print_contacts(contacts):
         print ('{}:{}'.format(name,contacts[name]))
 
 #create an emty contacts list
-contacts = {'Gautam': '9620959584', 'daddy': '1234567890', 'uma': '0987654321', 'Mahitha': 'no number'}
+contacts = {'Gautam': '23423423', 'daddy': '1234567890', 'uma': '0987654321', 'Mahitha': 'no number'}
 grocery={'milk':'2 liters','pizza':'2'}
 
 print ('Gautam:') 

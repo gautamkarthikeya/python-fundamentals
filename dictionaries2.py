@@ -7,7 +7,7 @@ def print_contacts(x):
 
 #create an emty contacts list
 contacts = {
-            'Gautam': {"phone":'9620959584',"email":'Gautam@Gmail.com'}, 
+            'Gautam': {"phone":'23423432',"email":'Gautam@Gmail.com'}, 
             'daddy':{"phone": '1234567890',"email":'daddy@Gmail.com'}, 
             'uma':{"phone": '0987654321',"email":'Uma@Gmail.com'}, 
             'Mahitha':{"phone": 'no number',"email":'Mahitha@Gmail.com'}
