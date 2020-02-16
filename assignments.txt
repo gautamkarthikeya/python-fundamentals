@@ -1,0 +1,36 @@
+1. Use print format function to print the following message. In the message person name and age should be passed via format function
+Create a reusable function.
+
+Ages:
+-----
+Gautam is 11 years old.
+Adi is 10 years old.
+Daddy is 40 years old.
+
+2. Ask user to enter number of stairs and generate a triagle like this
+
+Enter number of stairs: 7
+1
+12
+123
+1234
+12345
+123456
+1234567
+
+3. Ask user to enter number of stairs and generate a triagle like this
+
+Enter number of stairs: 7
+
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+4. 
+
+
+
