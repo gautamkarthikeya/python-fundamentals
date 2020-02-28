@@ -7,9 +7,7 @@ for grocery_item in list_grocery:
 
 table = 75
 line = 99
-while line<21:
-    print('{}*{}={}'.format(line,table,line*table))
-    line=line+1
+c
 
 
 for line in  range (1,99):

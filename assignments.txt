@@ -7,9 +7,9 @@ Gautam is 11 years old.
 Adi is 10 years old.
 Daddy is 40 years old.
 
-2. Ask user to enter number of stairs and generate a triagle like this
+2. Ask user to enter number of stairs and generate a triagle like this.  hint: use loops
 
-Enter number of stairs: 7
+Enter number of stairs: 9
 1
 12
 123
@@ -17,11 +17,15 @@ Enter number of stairs: 7
 12345
 123456
 1234567
+12345678
+123456789
 
-3. Ask user to enter number of stairs and generate a triagle like this
+ 
+3. Ask user to enter number of stairs and generate a triagle like this. hint: use loops
 
-Enter number of stairs: 7
-
+Enter number of stairs: 9
+123456789
+12345678
 1234567
 123456
 12345
@@ -30,7 +34,16 @@ Enter number of stairs: 7
 12
 1
 
-4. 
+4. Create following functions to calculate area of triangle, square, circle, rectangle. 
+area_of_triangle()
+area_of_square()
+area_of_circle()
+area_of_rectangle()
+print two examples in this format. <your anwser>
+Area of circle for radius: 5 is <your anwser>
+Area of square for side: 5 is <your anwser>
+Area of rectangle for length: 10 and width: 5 is <your anwser>
+Area of triangle for height: 10 and base: 5 is <your anwser>
 
 
 
